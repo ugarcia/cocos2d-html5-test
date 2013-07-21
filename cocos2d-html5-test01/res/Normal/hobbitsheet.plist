@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Idle_right00.png</key>
+            <dict>
+                <key>frame</key><string>{{0,0},{16,26}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Dummy?_right00.png</key>
+            <dict>
+                <key>frame</key><string>{{16,0},{16,26}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key> <false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Move_right00.png</key>
+            <dict>
+                <key>frame</key><string>{{32,0},{16,26}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Move_right01.png</key>
+            <dict>
+                <key>frame</key><string>{{48,0},{14,26}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key> <false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Move_right02.png</key>
+            <dict>
+                <key>frame</key> <string>{{115,0},{13,26}}</string>
+                <key>offset</key> <string>{0,0}</string>
+                <key>rotated</key> <false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Move_right03.png</key>
+            <dict>
+                <key>frame</key><string>{{128,0},{14,26}}</string>
+                <key>offset</key> <string>{0,0}</string>
+                <key>rotated</key> <false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+             <key>Walk_right00.png</key>
+            <dict>
+                <key>frame</key><string>{{62,0},{18,26}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key> <false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Walk_right01.png</key>
+            <dict>
+                <key>frame</key> <string>{{80,0},{16,26}}</string>
+                <key>offset</key> <string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Walk_right02.png</key>
+            <dict>
+                <key>frame</key><string>{{96,0},{18,26}}</string>
+                <key>offset</key> <string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>Walk_right03.png</key>
+            <dict>
+                <key>frame</key> <string>{{80,0},{16,26}}</string>
+                <key>offset</key> <string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{16,26}}</string>
+                <key>sourceSize</key><string>{16,26}</string>
+            </dict>
+            <key>hobbitsheet.png</key>
+            <dict>
+                <key>frame</key><string>{{0,0},{161,272}}</string>
+                <key>offset</key><string>{0,0}</string>
+                <key>rotated</key><false/>
+                <key>sourceColorRect</key><string>{{0,0},{161,272}}</string>
+                <key>sourceSize</key> <string>{16,26}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key><integer>2</integer>
+            <key>realTextureFileName</key><string>hobbitsheet.png</string>
+            <key>size</key><string>{162,264}</string>
+            <key>smartupdate</key><string>$TexturePacker:SmartUpdate:873706d2c1ad9f5b33d90eefda3a7084$</string>
+            <key>textureFileName</key><string>hobbitsheet.png</string>
+        </dict>
+    </dict>
+</plist>

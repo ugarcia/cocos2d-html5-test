@@ -1,0 +1,17 @@
+var ccb_resources = [
+    {type:'image', src:"ccbResources/ccbParticleSnow.png"},
+    {type:'image', src:"ccbResources/hobbitsheet.png"},
+    {type:'image', src:"ccbResources/ccbDefaultImages.png"},
+    {type:'ccbi', src:"InputMenu.ccbi"},
+    {type:'image', src:"ccbResources/ccbParticleFire.png"},
+    {type:'plist', src:"ccbResources/hobbitsheet.plist"},
+    {type:'image', src:"clickme.png"},
+    {type:'ccbi', src:"Platform00.ccbi"},
+    {type:'image', src:"ccbResources/ccbParticleStars.png"},
+    {type:'ccbi', src:"GameScene.ccbi"},
+    {type:'image', src:"ccbResources/platform00.png"},
+    {type:'ccbi', src:"Hobbit.ccbi"},
+    {type:'image', src:"clickme-down.png"},
+    {type:'plist', src:"ccbResources/ccbDefaultImages.plist"},
+    {type:'image', src:"ccbResources/ccbParticleSmoke.png"},
+];
